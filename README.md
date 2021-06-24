@@ -10,7 +10,7 @@ Now, the encoding supported are:
 
 ## Usage
 ```shell
-git clone git@github.com:GuoYunZheSE/Pyiconv.git
+git@github.com:GuoYunZheSE/Python-iconv.git
 pip3 install -r requirments.txt
 
 python3 iconv.py --help
